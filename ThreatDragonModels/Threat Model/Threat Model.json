@@ -1,0 +1,27 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Threat Model",
+    "owner": "Subeen",
+    "description": "Website for cat pictures",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Webapp",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "web application vdsvs"
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Keerthana",
+    "threatTop": 0
+  }
+}
